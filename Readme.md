@@ -14,23 +14,7 @@
 
 **需要作者提供资源**
 
--   第6章 表6.2“鼠标”列的中文翻译
 
--   P149 Vanishing Point翻译为《绝路狂飙》是否正确？
-
--   第17章脚注https://en.wikipedia.org/wiki/12_basic_principles_of_animation\#Staging的链接打不开，把文章保存为PDF格式的文件，命名为P302.1。
-
--   第18章http://www.steveswink.com/tune/打不开，如果是文章，把文章保存为PDF格式的文件；如果是可运行的文件，保存为exe或者其他可运行的文件，并命名为P313.1。
-
--   第18章的视频无法打开，请下载视频文件，并命名为P316.1。
-
--   第18章案例的链接打不开，能否下载案例文件？
-
--   第19章http://www.cs.tufts.edu/\~jacob/papers/sdcr.pdf打不开，把文章保存为PDF格式的文件，并命名为P332.1。
-
--   Force feedback是力反馈还是力回馈？
-
--   haptic feedback的准确性翻译是什么？
 
 **修改标准**
 
@@ -227,8 +211,6 @@ Boss、boss→BOSS
 物理性质→物理特性
 
 物理特质→物理特性
-
-Xbox360→Xbox 360 **中间加二分之一空格**
 
 冲击过程→冲击阶段
 
