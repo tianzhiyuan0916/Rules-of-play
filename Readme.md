@@ -110,7 +110,7 @@
 | Virtual space                  | 虚拟空间                            |
 | Wall kick                      | 踩墙跳                              |
 |                                |                                     |
-
+| Abstract                       | 抽象                                |
 **二编统改：**
 
 三段跳→三级跳
